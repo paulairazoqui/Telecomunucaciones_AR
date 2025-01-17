@@ -261,21 +261,17 @@ Con base en los resultados obtenidos en el análisis, se proponen las siguientes
 
 En conjunto, estas recomendaciones buscan maximizar la cobertura, mejorar la calidad de la conectividad y reducir las desigualdades regionales, asegurando un desarrollo equitativo y sostenible en el mercado de internet en Argentina.
 
+---
 
-Uso del Repositorio
+## Uso del Repositorio
 
-Cómo abrir el archivo .pbix (Power BI).
-Otros archivos relevantes (datos, scripts, etc.).
-Notas sobre dependencias o configuraciones necesarias.
-Limitaciones
+### Archivos Relevantes
 
-Advertencias sobre posibles problemas o aspectos que no se abordaron en el análisis.
-Storytelling
+- **Datasets crudos**: Contiene los datos originales utilizados para el análisis.
+- **Datasets procesados**: Incluye los datos que han sido limpiados y transformados para su uso en el análisis y visualización.
+- **Notebooks**: Contiene los notebooks utilizados para el análisis exploratorio de datos (EDA) y generación de insights.
+- **Propuesta de KPIs.md**: Documento que detalla los Indicadores Clave de Desempeño propuestos para evaluar la conectividad en Argentina.
+- **Dashboard.pbix**: Archivo de Power BI que contiene el dashboard interactivo con las visualizaciones del análisis.
+- **Archivo SQL**: Carpeta que incluye los siguientes elementos para la creación y diseño de la base de datos.
 
-Breve apartado sobre cómo se conectaron los datos con el objetivo del análisis para contar una historia coherente.
-Agradecimientos
-
-Opcional. Para reconocer apoyo, mentores, o cualquier recurso externo usado.
-Contacto
-
-Tu información de contacto o la manera de reportar problemas/sugerencias para el proyecto.
+--- 
