@@ -149,7 +149,7 @@ Cada KPI fue diseñado con metodologías específicas que abordan los retos plan
   - Ejemplo: `internet_accesos.csv`, `internet_penetracion.csv`.
 
 ### Base de datos modelada
-![base](../Telecomunucaciones_AR/Imagenes/modelo_base.png)
+![base](../Imagenes/modelo_base.png)
 
 
 --- 
