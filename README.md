@@ -148,6 +148,10 @@ Cada KPI fue diseñado con metodologías específicas que abordan los retos plan
 - Todos los DataFrames procesados se exportaron como archivos `.csv` para su uso en análisis posteriores.
   - Ejemplo: `internet_accesos.csv`, `internet_penetracion.csv`.
 
+### Base de datos modelada
+![base](../Telecomunucaciones_AR/Imagenes/modelo_base.png)
+
+
 --- 
 
 ## Metodología
