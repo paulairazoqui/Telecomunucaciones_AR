@@ -1,6 +1,5 @@
 # Análisis y Visualización de Datos de Conectividad a Internet en Argentina
 
----
 
 ## Descripción General
 
