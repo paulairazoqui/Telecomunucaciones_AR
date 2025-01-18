@@ -268,11 +268,12 @@ En conjunto, estas recomendaciones buscan maximizar la cobertura, mejorar la cal
 
 ### Archivos Relevantes
 
+- **Archivos MySQL**: Carpeta que incluye los elementos para la creación y diseño de la base de datos en MySQL.
 - **Datasets crudos**: Contiene los datos originales utilizados para el análisis.
 - **Datasets procesados**: Incluye los datos que han sido limpiados y transformados para su uso en el análisis y visualización.
 - **Notebooks**: Contiene los notebooks utilizados para el análisis exploratorio de datos (EDA) y generación de insights.
 - **Propuesta de KPIs.md**: Documento que detalla los Indicadores Clave de Desempeño propuestos para evaluar la conectividad en Argentina.
 - **Dashboard.pbix**: Archivo de Power BI que contiene el dashboard interactivo con las visualizaciones del análisis.
-- **Archivo SQL**: Carpeta que incluye los siguientes elementos para la creación y diseño de la base de datos.
+
 
 --- 

@@ -1,71 +1,128 @@
+![KPI](/Imagenes/KPI.jpg)
 # **Propuesta de `KPIs`**
 
 ## KPI1: Índice de Potencial de Conectividad por Provincia
+![conectividad](/Imagenes/conectividad.jpg)
 
-#### Introducción
-En el sector de las telecomunicaciones, identificar oportunidades de negocio requiere comprender la relación entre la accesibilidad a internet y la capacidad económica de los habitantes. El **Índice de Potencial de Conectividad** es un indicador clave que ayuda a identificar provincias con alta demanda insatisfecha de servicios de internet, donde las inversiones pueden generar un impacto significativo y un retorno atractivo.
+### Introducción
+El **Índice de Potencial de Conectividad** es un indicador clave en el sector de telecomunicaciones que relaciona la penetración de internet con el ingreso per cápita familiar. Este KPI identifica provincias con alta demanda insatisfecha de servicios de internet, donde las inversiones pueden generar un impacto significativo y un retorno atractivo. Es útil para priorizar regiones que maximicen tanto el impacto social como los beneficios económicos.
 
-#### Fórmula
-<div style="text-align: center;">
-    <p>
-        <strong>Índice de Potencial de Conectividad</strong> =
-        <span style="display: inline-block; text-align: center;">
-            <span style="border-bottom: 1px solid black;">Penetración de internet (accesos por cada 100 hogares)</span><br>
-            Ingreso per cápita familiar
-        </span>
-    </p>
-</div>
+---
 
+### Fórmula
+El **Índice de Potencial de Conectividad** se calcula como:
 
-#### Descripción
-- Este KPI evalúa el potencial de conectividad en cada provincia al relacionar la penetración de internet con el ingreso per cápita familiar.
-- Un valor alto del índice puede indicar provincias con una penetración significativa a pesar de tener bajos ingresos, lo que sugiere una demanda insatisfecha y una oportunidad para expandir infraestructura o servicios.
-- Este indicador permite priorizar regiones donde las inversiones podrían maximizar tanto el impacto social como los beneficios económicos.
+![formula_KPI1](/Imagenes/formula_KPI1.jpg)
+
+---
+
+### Descripción
+- Este KPI evalúa el **potencial de conectividad en cada provincia** al comparar la penetración de internet (accesos por cada 100 hogares) con los ingresos familiares.
+- **Interpretación**:
+  - Un valor **alto** del índice indica que la provincia tiene una alta saturación de conexiones.
+  - Un valor **bajo** sugiere una oportunidad para expandir infraestructura o servicios.
+- **Usos**:
+  - Priorizar inversiones en regiones con demanda insatisfecha.
+  - Identificar áreas con mayor impacto potencial para la expansión de servicios de internet.
+
+---
+
+### Aplicación Práctica
+Este índice permite a las empresas:
+- Identificar **oportunidades de negocio** en provincias con baja conectividad pero alto potencial de mejora.
+- Optimizar los recursos priorizando regiones con **mayor necesidad de inversión en infraestructura tecnológica**.
+- Adaptar estrategias de marketing y penetración de mercado según el nivel de saturación y demanda detectado.
+
+---
+
+### Nota sobre el índice
+1. **Provincias con alta saturación**:
+   - Una provincia con un índice elevado puede indicar una saturación en las conexiones y menor necesidad de inversión inmediata.
+2. **Provincias con baja saturación**:
+   - Índices bajos reflejan una oportunidad para desarrollar infraestructura y captar nuevos mercados.
+
+---
+
+### Notas sobre las Fórmulas
+1. **Trimestres seleccionados**:
+   - Los cálculos utilizan datos específicos de los cuatro trimestres de 2022 y 2023 para obtener una comparación interanual precisa.
+2. **Componentes clave**:
+   - `Accesos por cada 100 hogares`: Métrica de penetración de internet en hogares.
+   - `Hogares`: Cantidad total de hogares por provincia.
+   - `Ingresos`: Ingreso promedio por familia en cada provincia.
+3. **Ajuste por ingreso**:
+   - Relacionar accesos con ingreso per cápita familiar permite un análisis más equitativo del potencial de conectividad.
+
+---
+
+### Breve Explicación
+El **Índice de Potencial de Conectividad** refleja la relación entre los accesos a internet y los ingresos en cada provincia, ofreciendo una perspectiva comparativa del nivel de conectividad actual. Es una herramienta estratégica para identificar regiones donde las inversiones pueden generar un mayor impacto social y económico.
+
 
 ---
 
 ## KPI 2: **Índice de Saturación Tecnológica**
 
-#### Introducción
-El **Índice de Saturación Tecnológica** es una métrica clave para identificar el grado de penetración de las tecnologías de internet en cada provincia. Este KPI permite analizar qué tan desarrolladas están las diferentes tecnologías en función de la población local, proporcionando una visión clara de las oportunidades para introducir o expandir tecnologías emergentes.
+![avance](/Imagenes/avance.jpg)
 
-#### Fórmula
-<div style="text-align: center;">
-    <p>
-        <strong>Índice de Saturación Tecnológica</strong> =
-        <span style="display: inline-block; text-align: center;">
-            <span style="border-bottom: 1px solid black;">Total de accesos a internet por tecnología</span><br>
-            Población total de la provincia
-        </span>
-    </p>
-</div>
+---
 
-#### Descripción
-Este KPI tiene múltiples beneficios para el análisis de inversiones en telecomunicaciones:
+### Introducción
 
-- **Diagnóstico del mercado:** Evalúa el nivel de adopción de cada tecnología en las provincias, permitiendo identificar áreas con saturación alta o baja.
-- **Identificación de oportunidades:** Las provincias con un índice bajo indican un menor uso relativo de ciertas tecnologías, lo que podría representar un mercado potencial para su implementación o expansión.
-- **Priorización tecnológica:** Facilita la toma de decisiones estratégicas al resaltar las tecnologías con mayor capacidad de crecimiento en cada región.
-  
-Con este KPI, es posible priorizar inversiones de manera eficiente, maximizando el retorno al apuntar a áreas y tecnologías con mayor potencial.
+El **Índice de Saturación Tecnológica** mide el nivel de adopción de las tecnologías de internet en cada provincia, evaluando su penetración en función de la población local. Este indicador es esencial para identificar oportunidades de mercado y planificar inversiones estratégicas en telecomunicaciones.
+
+---
+
+### Fórmula
+
+![formula_KPI2](/Imagenes/formula_KPI2.jpg)
+
+---
+
+### Descripción
+
+Este KPI tiene como objetivos principales:
+
+- **Diagnóstico del mercado**: Identificar qué provincias tienen alta o baja saturación tecnológica, destacando el nivel de adopción de tecnologías específicas.
+- **Identificación de oportunidades**: Proveer información sobre provincias con índices bajos, lo que sugiere mercados potenciales para tecnologías emergentes como la fibra óptica o conexiones inalámbricas avanzadas.
+- **Priorización tecnológica**: Ayuda a dirigir recursos estratégicamente hacia áreas con mayor capacidad de crecimiento.
+
+---
+
+### Aplicación Práctica
+
+- **Provincias con alta saturación**: Son ideales para consolidar servicios existentes y ofrecer productos premium.
+- **Provincias con baja saturación**: Representan un mercado potencial para la expansión de tecnologías avanzadas, como la fibra óptica, mejorando así la cobertura y aumentando la adopción.
+
+---
+
+### Notas sobre las Fórmulas
+
+- La fórmula del índice incluye tecnologías individuales, como fibra óptica y wireless, para destacar su adopción específica.
+- El crecimiento en tecnologías avanzadas ayuda a visualizar tendencias y priorizar inversiones en provincias con baja adopción previa.
+
+---
+
+### Breve Explicación
+
+El **Índice de Saturación Tecnológica** compara el total de accesos a internet por tecnología con la población total, proporcionando una medida relativa del nivel de conectividad en una provincia. Un índice bajo indica menor adopción tecnológica y oportunidades para expandir servicios.
+
+El cálculo del crecimiento permite evaluar el progreso interanual en tecnologías emergentes, destacando áreas con mayor dinamismo o necesidad de inversión.
 
 ---
 ## KPI obligatorio: Incremento del Acceso a Internet por Provincia
 
-#### Introducción
+![accesos](/Imagenes/accesos.jpg)
+
+### Introducción
 Este KPI mide el crecimiento porcentual en el acceso a Internet por cada 100 hogares en cada provincia, con el objetivo específico de alcanzar un aumento del 2% en el próximo trimestre. Es una métrica clave para evaluar la efectividad de las inversiones en infraestructura tecnológica y estrategias de expansión del servicio de Internet.
 
-#### Fórmula
-<div style="text-align: center;">
-    <p>
-        <b>KPI = </b>
-        <i>(Nuevo acceso - Acceso actual) / Acceso actual × 100</i>
-    </p>
-</div>
+### Fórmula
 
-#### Descripción
+![formula_KPIob](/Imagenes/formula_KPIob.jpg)
+
+
+### Descripción
 - **"Nuevo acceso"**: Se refiere al número de hogares con acceso a Internet proyectado para el próximo trimestre.
 - **"Acceso actual"**: Representa el número de hogares con acceso a Internet en el trimestre actual.
 - Este KPI permite evaluar el progreso hacia el objetivo del 2% de incremento en accesos por cada 100 hogares, identificando las provincias que cumplen con la meta y las áreas donde es necesario redoblar esfuerzos.
-
-
