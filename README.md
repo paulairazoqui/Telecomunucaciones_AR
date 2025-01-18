@@ -21,6 +21,7 @@ Con estas respuestas, se espera apoyar decisiones informadas que impulsen la con
 ---
 
 ## Objetivos
+![objetivo](/Imagenes/objetivo.jpg)
 
 - Evaluar el estado actual del acceso a internet en Argentina, identificando las provincias con mayor y menor cobertura.
 - Analizar el potencial de conectividad ajustado por provincia, destacando las áreas con mayor oportunidad de inversión en infraestructura tecnológica.
@@ -31,6 +32,7 @@ Con estas respuestas, se espera apoyar decisiones informadas que impulsen la con
 ---
 
 ## KPIs Analizados
+![botones](/Imagenes/botones.jpg)
 
 Este análisis se centra en tres indicadores clave de desempeño (KPIs), diseñados para evaluar diferentes aspectos de la conectividad y las tecnologías de acceso a internet:
 
@@ -44,6 +46,7 @@ Cada KPI fue diseñado con metodologías específicas que abordan los retos plan
 
 --- 
 ## Datos Utilizados
+![estadistica](/Imagenes/estadistica.jpg)
 
 ### Fuentes de los Datos
 1. **Conexiones a Internet**  
@@ -149,12 +152,12 @@ Cada KPI fue diseñado con metodologías específicas que abordan los retos plan
   - Ejemplo: `internet_accesos.csv`, `internet_penetracion.csv`.
 
 ### Base de datos modelada
-![Imagenes\modelo_base.png](https://github.com/paulairazoqui/Telecomunucaciones_AR/blob/main/Imagenes/modelo_base.png)
-
+![modelo_base.png](/Imagenes/modelo_base.png)
 
 --- 
 
 ## Metodología
+![herramientas](/Imagenes/herramientas.jpg)
 
 ### Herramientas Utilizadas
 
@@ -210,6 +213,7 @@ Este análisis permite identificar áreas estratégicas para la expansión de la
 --- 
 
 ## Resultados y Conclusiones
+![conclusiones](/Imagenes/conclusiones.jpg)
 
 El análisis de los datos relacionados con los accesos a internet en Argentina permitió identificar las siguientes conclusiones clave:
 
@@ -225,7 +229,7 @@ El análisis de los datos relacionados con los accesos a internet en Argentina p
 
 ### 3. Desigualdad Regional
 - **Concentración en Grandes Centros Urbanos:** Provincias como Buenos Aires, Córdoba y Santa Fe concentran la mayoría de los accesos y cuentan con las velocidades más altas.
-- **Brecha Digital:** Provincias del norte, como Formosa y Santiago del Estero, presentan los niveles más bajos de acceso y velocidades, reflejando desigualdades significativas.
+- **Brecha Digital:** Provincias del norte, como Formosa y Santiago del Estero, o del sur, como Tierra del Fuego y Santa Cruz, presentan los niveles más bajos de acceso y velocidades, reflejando desigualdades significativas.
 
 ### 4. Oportunidades de Mejora
 - **Modernización de Infraestructura:** Acelerar la transición hacia `Fibra óptica` y tecnologías de alta velocidad en regiones menos conectadas.
@@ -235,12 +239,13 @@ El análisis de los datos relacionados con los accesos a internet en Argentina p
 En resumen, el análisis muestra una evolución positiva en la conectividad a internet en Argentina, impulsada por la adopción de tecnologías modernas. Sin embargo, se destaca la necesidad de abordar las desigualdades regionales para garantizar un acceso equitativo y sostenible en todo el país.
 
 ## Recomendaciones
+![recomendaciones](/Imagenes/recomendaciones.jpg)
 
 Con base en los resultados obtenidos en el análisis, se proponen las siguientes recomendaciones para mejorar la conectividad y aprovechar las oportunidades de negocio:
 
 ### 1. Expansión de Fibra Óptica
-- **Priorizar Inversiones:** Ampliar la cobertura de `Fibra óptica` en regiones urbanas y suburbanas con alta demanda, ya que es la tecnología con mayor potencial de crecimiento.
-- **Reducción de Brechas:** Implementar planes de expansión en provincias con baja penetración tecnológica, como Formosa y Santiago del Estero, para fomentar la inclusión digital.
+- **Priorizar Inversiones:** Ampliar la cobertura de `Fibra óptica` en regiones urbanas y suburbanas con alta demanda y baja saturación, ya que es la tecnología con mayor potencial de crecimiento.
+- **Reducción de Brechas:** Implementar planes de expansión en provincias con baja penetración tecnológica.
 
 ### 2. Estrategias para Mercados Saturados
 - **Optimización del Cablemodem:** Mantener y mejorar los servicios actuales en regiones donde esta tecnología domina, asegurando la fidelización de clientes.
@@ -254,19 +259,12 @@ Con base en los resultados obtenidos en el análisis, se proponen las siguientes
 - **Estrategias Regionales:** Implementar `Wireless` como solución principal en áreas rurales o regiones de difícil acceso.
 - **Mejora de Infraestructura:** Invertir en la optimización de estas redes para ofrecer velocidades competitivas y mayor estabilidad.
 
-### 5. Políticas Públicas para la Inclusión Digital
-- **Incentivos Gubernamentales:** Fomentar la colaboración entre el sector público y privado para financiar proyectos de modernización tecnológica en regiones rezagadas.
-- **Educación y Concientización:** Implementar programas educativos que promuevan el uso de internet como herramienta clave para el desarrollo.
-
-### 6. Análisis y Monitoreo Continuo
-- **Seguimiento de Tendencias:** Monitorear la evolución del mercado para ajustar estrategias en función de la adopción de nuevas tecnologías.
-- **Identificación de Nichos:** Explorar oportunidades en tecnologías emergentes que puedan capturar mercados específicos o complementarios.
-
 En conjunto, estas recomendaciones buscan maximizar la cobertura, mejorar la calidad de la conectividad y reducir las desigualdades regionales, asegurando un desarrollo equitativo y sostenible en el mercado de internet en Argentina.
 
 ---
 
 ## Uso del Repositorio
+![GitHub](/Imagenes/GitHub.png)
 
 ### Archivos Relevantes
 
