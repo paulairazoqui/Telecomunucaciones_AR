@@ -1,5 +1,5 @@
 # Análisis y Visualización de Datos de Conectividad a Internet en Argentina
-
+![Internet](https://github.com/paulairazoqui/Telecomunucaciones_AR/blob/main/Imagenes/internet.png)
 
 ## Descripción General
 
