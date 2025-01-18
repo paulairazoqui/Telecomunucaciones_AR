@@ -7,9 +7,17 @@ Este proyecto analiza los datos de conectividad a internet en Argentina, abordan
 
 El análisis se centra en tres indicadores clave de rendimiento (KPIs) que evalúan el **acceso**, el **potencial de conectividad** y el **crecimiento de tecnologías avanzadas**. El resultado principal es un conjunto de visualizaciones que permiten comprender la situación actual y proyectar estrategias futuras para mejorar la infraestructura tecnológica.
 
-### Contexto del Análisis
+### Contexto del Proyecto
 
-En un mundo cada vez más digitalizado, el acceso a internet y la adopción de tecnologías avanzadas son fundamentales para el desarrollo social y económico. En Argentina, las diferencias regionales en conectividad representan un reto significativo para cerrar la brecha digital y promover la igualdad de oportunidades.
+En un mundo cada vez más conectado, la infraestructura de telecomunicaciones se ha convertido en un pilar esencial para el desarrollo económico y social. En este contexto, surge la necesidad de comprender cómo se distribuyen y utilizan las tecnologías de acceso a internet en Argentina. Este proyecto se centra en analizar datos clave para identificar oportunidades de negocio, optimizar inversiones tecnológicas y reducir brechas de conectividad entre regiones.
+
+#### Objetivo
+El objetivo principal es proporcionar un análisis basado en datos que permita a las empresas de telecomunicaciones tomar decisiones estratégicas informadas. Este análisis también tiene como finalidad destacar regiones con necesidades específicas de infraestructura tecnológica, fomentando así la equidad en el acceso a internet y potenciando el desarrollo regional.
+
+#### Importancia
+- **Empresarial:** Identificar mercados con alto potencial de crecimiento en conectividad y saturación tecnológica, maximizando el retorno de inversión.
+- **Social:** Reducir la brecha digital, promoviendo el acceso igualitario a servicios de internet en todo el país.
+- **Económica:** Impulsar regiones menos conectadas para integrarlas en la economía digital, mejorando su competitividad.
 
 Este proyecto busca responder a preguntas críticas como: 
 - *¿qué provincias tienen mayores oportunidades de inversión?* 
@@ -42,7 +50,7 @@ Este análisis se centra en tres indicadores clave de desempeño (KPIs), diseña
 
 3. **KPI de Crecimiento de Tecnologías Avanzadas**: Mide la adopción de tecnologías como fibra óptica y wireless, destacando el crecimiento en el uso de estas tecnologías frente a alternativas menos modernas como el cablemodem. Se planteó un objetivo de **aumento del 10% en conexiones a tecnologías avanzadas** entre 2022 y 2023.
 
-Cada KPI fue diseñado con metodologías específicas que abordan los retos planteados en los datos, como la falta de uniformidad temporal y las disparidades regionales. Los detalles exhaustivos de los cálculos y enfoques metodológicos pueden consultarse en el archivo **KPIs Propuestos**, disponible en este repositorio.
+Cada KPI fue diseñado con metodologías específicas que abordan los retos planteados en los datos, como la falta de uniformidad temporal y las disparidades regionales. Los detalles exhaustivos de los cálculos y enfoques metodológicos pueden consultarse en el archivo **[Propuesta de KPIs](/Propuesta%20de%20KPIs.md)**, disponible en este repositorio.
 
 --- 
 ## Datos Utilizados
